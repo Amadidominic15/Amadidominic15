@@ -47,10 +47,10 @@ In pursuit of excellence, I leverage cloud technologies such as GCP and AWS, alo
 <br>
 
 <div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=OLAMIDE100&count_private=true&show_icons=true&theme=radical"  width="400px" alt="OLAMIDE100">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Amadidominic15&count_private=true&show_icons=true&theme=radical"  width="400px" alt="Amadidominic15">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLAMIDE100&layout=compact&theme=radical"  width="350px" alt="OLAMIDE100">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadidominic15&layout=compact&theme=radical"  width="350px" alt="Amadidominic15">
 </div>
     
     
