@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Dominic Amadi, thank you for visiting my profile 👩🏾‍💻
 
 
-I am a DevOps Engineer who is highly skilled and results-driven with experience in designing, implementing, and managing scalable infrastructure and 
+I am a DevOps/Cloud Engineer who is highly skilled and results-driven with experience in designing, implementing, and managing scalable infrastructure and 
 continuous integration/continuous deployment (CI/CD) pipelines. Expertise in automating cloud environments, optimizing system performance, and ensuring reliability and security of software delivery processes. Adept at collaborating with development and operations teams to streamline workflows, enhance deployment speed, and reduce downtime.
 
 In pursuit of excellence, I leverage cloud technologies such as GCP and AWS, alongside DevOps best practices, for all my devops projects. My proficiency in troubleshooting allows me to swiftly identify and implement solutions, ensuring timely project delivery.
